@@ -1,0 +1,21 @@
+{
+  "name": "web_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apify": "^3.2.4",
+    "axios": "^1.7.3",
+    "cheerio": "^1.0.0-rc.12",
+    "node-cron": "^3.0.3",
+    "puppeteer": "^22.15.0",
+    "request-promise": "^4.2.6",
+    "twitter-api-v2": "^1.17.2",
+    "twitter-scraper": "^5.1.0"
+  }
+}
